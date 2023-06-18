@@ -10,8 +10,9 @@
 
   <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiLima005&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuiLima005&theme=gotham)
-
 ![Snake animation](https://github.com/GuiLima005/GuiLima005/blob/output/github-contribution-grid-snake.svg)
 
